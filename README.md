@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1N0oFUITgCKv07EO8TacxQuXcnbFJ9IW-/view?usp=sharing](https://drive.google.com/file/d/1N0oFUITgCKv07EO8TacxQuXcnbFJ9IW-/view?usp=sharing)
 
-- ⚡ Fun fact **I think I like to make tea in 2:1 ratio(milk and water)**
+- ⚡ Fun fact **My mom says I'm special.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
