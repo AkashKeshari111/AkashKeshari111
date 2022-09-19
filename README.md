@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://akashkeshari111.github.io/)
 
-- 💬 Ask me about **HTML,CSS,JavaScript,React,Redux and Chakra UI.**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, Redux, Chakra UI, Node.js, Express, MongoDb.**
 
 - 📫 How to reach me **akashkeshari2722000@gmail.com**
 
