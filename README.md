@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at [https://ak111-portfolio.netlify.app](https://ak111-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://akashkeshari111.github.io/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,React,Redux and Chakra UI.**
 
