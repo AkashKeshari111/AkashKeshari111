@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Keshari</h1>
-<h3 align="center">I am a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. I'm currently into Web Development and working on my Data Structure and Algorithms.</h3>
+<h3 align="center">I am Akash Keshari, a Passionate aspiring Full Stack Developer skilled in MERN stack & building my logic on Data Structure & algorithms as well as developing problem-solving and collaboration and teamwork skills, moulded and shaped by Masai school’s intensive and immersive learning. Look forward to joining a company where I will be able to contribute to my and the company's growth and progress.</h3>
 
 <p align="left"> <a href="https://twitter.com/akashkeshari111" target="blank"><img src="https://img.shields.io/twitter/follow/akashkeshari111?logo=twitter&style=for-the-badge" alt="akashkeshari111" /></a> </p>
 
