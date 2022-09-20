@@ -17,7 +17,7 @@ I am Akash Keshari, a Passionate aspiring Full Stack Developer skilled in MERN s
 
 - 📫 How to reach me **akashkeshari2722000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15MNZ-yKNQcMPGjVuFgG8Wf7kUbXpjG0m/view?usp=sharing](RESUME)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15MNZ-yKNQcMPGjVuFgG8Wf7kUbXpjG0m/view?usp=sharing]([RESUME](https://drive.google.com/file/d/15MNZ-yKNQcMPGjVuFgG8Wf7kUbXpjG0m/view?usp=sharing))
 
 
 
