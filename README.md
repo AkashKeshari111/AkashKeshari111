@@ -1,5 +1,9 @@
 
 <h1 align="center">Hi 👋, I'm Akash Keshari</h1>
+<h1 align="center">
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500px"/>
+</h1>
+
 
 # 💫 About Me:
 I am Akash Keshari, a Passionate aspiring Full Stack Developer skilled in MERN stack & building my logic on Data Structure & algorithms as well as developing problem-solving and collaboration and teamwork skills, moulded and shaped by Masai school’s intensive and immersive learning. Look forward to joining a company where I will be able to contribute to my and the company's growth and progress.
