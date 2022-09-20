@@ -4,6 +4,11 @@
 # 💫 About Me:
 I am Akash Keshari, a Passionate aspiring Full Stack Developer skilled in MERN stack & building my logic on Data Structure & algorithms as well as developing problem-solving and collaboration and teamwork skills, moulded and shaped by Masai school’s intensive and immersive learning. Look forward to joining a company where I will be able to contribute to my and the company's growth and progress.
 
+
+[![](https://visitcount.itsvg.in/api?id=AkashKeshari111&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akashkeshari111" alt="akashkeshari111" /></a> </p>
+
 <p align="left"> <a href="https://akashkeshari111.github.io/" target="blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="akashkeshari_portfolio" /></a> </p>
 
 - 🌱 I’m currently learning **MERN stack**
@@ -32,8 +37,5 @@ I am Akash Keshari, a Passionate aspiring Full Stack Developer skilled in MERN s
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="350px"/>
-
 ---
-[![](https://visitcount.itsvg.in/api?id=AkashKeshari111&icon=0&color=0)](https://visitcount.itsvg.in)
+
