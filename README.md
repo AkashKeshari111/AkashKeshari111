@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **akashkeshari2722000@gmail.com**
 
-- 📄 Know about my experiences by [Resume](https://drive.google.com/file/d/15MNZ-yKNQcMPGjVuFgG8Wf7kUbXpjG0m/view?usp=sharing)
+- 📄 Know about my experiences by [Resume](https://drive.google.com/file/d/1ZnvQM20dCv8_787TirTi3Ju9gyvzqZrk/view?usp=sharing)
 
 
 
